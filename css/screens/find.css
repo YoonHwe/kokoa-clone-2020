@@ -1,0 +1,7 @@
+.find-screen{
+    padding: 0px var(--horizontal-space);
+}
+.find-screen__channel-header{
+    padding: 10px 0px;
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,26 @@
+.chats-screen{
+    padding: 0px var(--horizontal-space);
+}
+.user-component__right{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  margin-left: 60px;
+}
+.user-component__right > p{
+  color: gray;
+  opacity: 0.8;
+  margin-bottom: 5px;
+}
+.user-component__one{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: tomato;
+    color: white;
+    margin-top: 5px;
+}

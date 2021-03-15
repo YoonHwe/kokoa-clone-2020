@@ -1,0 +1,12 @@
+.more-screen{
+    padding: 0px var(--horizontal-space);
+}
+.more-screen__channel-header{
+    padding: 10px 0px;
+    border-bottom: 1px solid black;
+}
+.more-foryou__function{
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
